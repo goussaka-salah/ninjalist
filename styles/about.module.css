@@ -1,0 +1,14 @@
+.about{
+    text-align: center;
+    width: 80%;
+    padding:60px 0px;
+    margin: auto;
+}
+.about h1{
+    text-transform: capitalize;
+    margin-bottom: 40px;
+}
+.about p{
+    color: #333333ae;
+    font-weight: 200;
+}

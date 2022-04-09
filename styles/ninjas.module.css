@@ -1,0 +1,26 @@
+.ninjas{
+    width: 80%;
+    padding:60px 0px;
+    margin: auto;
+}
+.ninjas h1{
+    text-transform: capitalize;
+}
+.ninjas .ninjasNames a:not(.ninjas .ninjasNames:last-child){
+    margin-top: 30px;
+}
+.ninjas .ninjasNames a {
+    background: rgba(255, 255, 255, 0.776);
+    padding: 10px 30px;
+    transition: .3s;
+    border-left: 0px #407dfc solid;
+    display: block;
+}
+.ninjas .ninjasNames a:hover{
+    transition: .3s;
+    border-left: 12px #407dfc solid;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+}
